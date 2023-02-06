@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Mood Tracker</string>
+    <string name="button_next">Next</string>
+    <string name="image_view_description">display_image</string>
+    <string name="card_view_description">Pancake</string>
+    <string name="card_view_details">Description</string>
+    <string name="pancake_description">Every single Sunday begins with pancakes… and ends with
+        leftover pancakes from the morning. These are everything you want in a pancake. They’re
+        soft and so fluffy… each mouthful melts in your mouth… you\'ll be reaching for more than one.
+        </string>
+    <string name="fruit_smoothies_description">It\'s hard to resist a freshly blended fresh fruit
+        smoothie. They\'re sweet, cold, and easy to make. Even if you don\'t always have the time to\
+        pull out the blender, you have to love a great-tasting smoothie!</string>
+</resources>
